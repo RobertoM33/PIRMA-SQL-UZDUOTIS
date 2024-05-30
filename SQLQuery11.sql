@@ -1,0 +1,1 @@
+SELECT title AS 'filmo pavadinimas', rental_rate AS 'nuomos kaina', length AS 'filmo trukme' FROM film ORDER BY length ASC;

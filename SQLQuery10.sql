@@ -1,0 +1,1 @@
+SELECT last_update, last_name, first_name FROM actor;
